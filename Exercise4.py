@@ -1,5 +1,5 @@
 total_sum = 0
-# collects 5 integer from the user
+# collects 5 integer from the users
 for i in range(5):
     while True:
         try:
