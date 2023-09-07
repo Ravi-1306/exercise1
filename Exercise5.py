@@ -3,7 +3,7 @@ class BankAccount:
     def __init__(self, account_name, starting_balance):
         self.account_name = account_name
         self.balance = starting_balance
-# addes funds to the account
+# add funds to the account
     def deposit(self, amount):
         if amount > 0:
             self.balance += amount
