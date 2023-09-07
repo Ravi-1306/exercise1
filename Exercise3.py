@@ -14,6 +14,6 @@ def count(input_string):
     return letter_count
 
 user_input = input("Enter a string: ")
-# call the count functiuon
+# call the counts functiuon
 result = count(user_input)
 print(result)
